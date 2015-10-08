@@ -22,7 +22,7 @@ ADD ./annuaire.sql /var/db/annuaire.sql
 # Set Standard settings
 ENV user enspgi
 ENV password annuaire
-ENV url file:/var/db/database.sql
+ENV url file:/var/db/annuaire.sql
 ENV right WRITE
 
 # Install starting script
