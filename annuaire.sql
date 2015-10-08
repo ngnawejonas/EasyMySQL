@@ -1,3 +1,7 @@
+CREATE DATABASE  IF NOT EXISTS `annuaire` DEFAULT CHARSET=utf8;
+
+USE `annuaire`;
+
 -- phpMyAdmin SQL Dump
 -- version 4.3.11
 -- http://www.phpmyadmin.net
